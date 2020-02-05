@@ -1,13 +1,8 @@
-from __future__ import absolute_import, division, print_function, unicode_literals
-
 import tensorflow as tf
-
-
 from sklearn.model_selection import train_test_split
 
 from transformers import BertTokenizer, TFBertModel
 
-import unicodedata
 import re
 import numpy as np
 import os
