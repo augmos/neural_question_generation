@@ -3,4 +3,4 @@ transformers==2.4.1
 regex==2020.1.8
 spacy==2.2.2
 bert-embedding==1.0.1
-numpy==1.14.6
+numpy==1.22.0
